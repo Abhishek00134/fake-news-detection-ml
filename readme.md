@@ -8,8 +8,6 @@ The Fake News Detection system analyzes the text of a news article and predicts 
 
 The project uses TF-IDF for text feature extraction and Logistic Regression for classification. A Streamlit interface allows users to enter news articles and view the model's predictions.
 
-**Note:** This application is an educational ML project. Its predictions are not independent fact-checks and should not be treated as proof that a news story is true or false.
-
 ## Features
 
 - News classification into Fake and Real categories
